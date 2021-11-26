@@ -12,3 +12,6 @@ char *StrCpy(char *src){
 	dest[j+1]='\0';
 	return dest;
 } 
+/**
+远程edit
+**/
