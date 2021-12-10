@@ -13,8 +13,5 @@ char *StrCpy(char *src){
 	return dest;
 } 
 /**
-
-本地编辑 B20031627 黄宇辰
-
-
+本地编辑
 **/
